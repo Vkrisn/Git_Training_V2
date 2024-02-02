@@ -1,2 +1,3 @@
+comparison lecture, file 2
 GIT Commit Revert 1
 This is sample file 2
